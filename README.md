@@ -5,9 +5,9 @@ It first asks for the location access of the user, so as to provide the weather 
 
 ![Screenshot 2023-05-26 234438](https://github.com/PrinceShishodia/WeatherApp-using-ReactJS/assets/95168097/3d81d79a-4610-448a-9bed-56d2123b52ba)
 
-<p align="center">
+
 Live WebApp Link : [prince-shishodia-weather.netlify.app/](prince-shishodia-weather.netlify.app/)
-</p>
+
 
 
 ## How to run the project locally ?
